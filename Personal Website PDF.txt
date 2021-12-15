@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+        body {
+         margin: 0;
+         font-family: sans-serif, Helvetica, sans-serif;
+        }
+
+        .all-browsers {
+            margin: 0;
+            padding: 5px;
+            background-color: yellow;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color:darkblue;
+        }
+
+        .topnav a {
+            float: left;
+            color: #f2f2f2;
+        text-align: center;
+        padding: 25px 25px;
+        text-decoration: none;
+        font-size: 22px;
+        }
+
+       .topnav a:hover {
+                background-color: orange;
+                color: black;
+        }
+
+        .topnav a.active {
+                background-color: crimson;
+                color: black;
+            }
+            body {
+                background-image: url("images/Grand\ Canyon.jpg");
+                background-repeat: no-repeat;
+                background-size: 100%;
+                width: 100%;
+             }
+
+        footer {
+            text-align: center;
+            bottom: 0%;
+            font-family: cursive;
+            word-spacing: 20px;
+            padding: 25px;
+            background-color: blue;
+            color: pink;
+            font-size: 50px
+                }
+        </style>
+
+        </head>
+        <body>
+
+        <div class="topnav">
+            <a class="active" href="Personal Website.html">Bio</a>
+            <a href="Video Games.html">Video Games</a>
+            <a href="Novels.html">Novels</a>
+            <a href="Contact.html">Contact</a>
+        </div>
+
+        <div style="padding-left:16px; font-size: x-large; color: rgb(37, 228, 218);">
+            <h3>Bio</h3>
+            <p></p>
+            <p>Hello, I am Quentin G. Llamas.</p> 
+            <p>I graduated from Saint Henry District High School, and I’m currently enrolled in Northern Kentucky University as a senior. In 2018, I’ve received the Educational Diversity Tuition Scholarship, the NKU Excellence Scholarship, and the Kentucky Educational Excellence Scholarship. My major is creative writing in the English department. Once I graduate from NKU, I plan to become a writer. I’ve been working in a Home Depot for the past year.  My primary language is English and while I’m not perfect with it, I know a little Spanish. I've been to many grat locations, including Niragra Falls, the Willis Tower, and the Grand Canyon.</p>
+            <p>Some of my favorite hobbies includes video games and reding books and novels. Because of this, I want to share with you some of my favorites over the years, from old to new. At the end, if you want to talk about a certain game/book, you can contact me about anything you want to know. We could even talk about whatever you want together. </p>
+            <p>I plan to update this website every now and then. Despite the trouble that everyone is going through, I'm happy that everyone is still capable of creating wonderful sources of entertainment. Have a wonderful time. </p>
+        </div>
+
+        <footer id="colophon" class="site-footer">
+
+            <footer>
+                <a class="active" href="Personal Website.html">Bio</a>
+                <a href="Video Games.html">Video-Games</a>
+                <a href="Novels.html">Novels</a>
+                <a href="Contact.html">Contact</a>
+            </footer>
+        </body>
+        </html>

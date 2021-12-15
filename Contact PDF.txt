@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+        body {
+         margin: 0;
+         font-family: sans-serif, Helvetica, sans-serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color:darkblue;
+        }
+
+        .topnav a {
+            float: left;
+            color: #f2f2f2;
+        text-align: center;
+        padding: 25px 25px;
+        text-decoration: none;
+        font-size: 22px;
+        }
+
+        body{
+                background-color: powderblue
+            }
+
+       .topnav a:hover {
+                background-color: orange;
+                color: black;
+        }
+
+        .topnav a.active {
+                background-color: crimson;
+                color: black;
+            }
+
+            footer {
+        text-align: center;
+        bottom: 0%;
+        font-family: cursive;
+        word-spacing: 20px;
+        padding: 25px;
+        background-color: blue;
+        color: pink;
+        font-size: 50px
+            }
+
+            * {
+  box-sizing: border-box;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid olivedrab;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: hotpink;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: yellow;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: turquoise;
+  padding: 10px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+        </style>
+        </head>
+        <body>
+
+        <div class="topnav">
+            <a class="active" href="Personal Website.html">Bio</a>
+            <a href="Video Games.html">Video Games</a>
+            <a href="Novels.html">Novels</a>
+            <a href="Contact.html">Contact</a>
+        </div>
+
+        <div class="container">
+            <div style="text-align:center">
+              <h2>Contact Us</h2>
+              <p>Want to Chat? Send me a message and I'll contact you as soon as possible.</p>
+            </div>
+                <form action="/action_page.php">
+                  <label for="fname">First Name</label>
+                  <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                  <label for="lname">Last Name</label>
+                  <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                  <label for="email">Email</label>
+                  <input type="email" id="email" name="email" placeholder="Your email..">
+                  </select>
+                  <textarea id="subject" name="subject" placeholder="Comment or Message" style="height:170px"></textarea>
+                  <input type="submit" value="Submit">
+                </form>
+              </div>
+            </div>
+          </div>
+
+        <div style="padding-left:16px">
+            <p>	If you like to talk to me about anything, just fill in the information down below and I’ll get to you as soon as possible.</p>
+            <p>Contact the author of this page:</p>
+
+            <address>
+                <a href="llamasq1@mymail.nku.edu">llamasq1@mymail.nku.edu</a><br>
+                <a href="tel:8592876218">(859) 287-6218</a>
+            </address>
+
+            <footer id="colophon" class="site-footer">
+
+            <footer>
+                <a class="active" href="Personal Website.html">Bio</a>
+                <a href="Video Games.html">Video-Games</a>
+                <a href="Novels.html">Novels</a>
+                <a href="Contact.html">Contact</a>
+            </footer>
+        </body>
+        </html>

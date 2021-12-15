@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+        body {
+         margin: 0;
+         font-family: sans-serif, Helvetica, sans-serif;
+        }
+        
+        .all-browsers {
+            margin: 0;
+            padding: 5px;
+            background-color: yellow;
+        }
+
+            body{
+                background-color:cadetblue
+            }
+
+        .topnav {
+            overflow: hidden;
+            background-color:darkblue;
+        }
+
+        p.double {border-style: double; border-color: firebrick; text-align: left; color:rgb(170, 211, 238); font-family: fantasy;
+        font-size: 25px; position: relative;}
+
+        .topnav a {
+            float: left;
+            color: #f2f2f2;
+        text-align: center;
+        padding: 25px 25px;
+        text-decoration: none;
+        font-size: 22px;
+        }
+
+       .topnav a:hover {
+                background-color: orange;
+                color: black;
+        }
+
+        .topnav a.active {
+                background-color: crimson;
+                color: black;
+            }
+
+            
+
+        footer {
+            text-align: center;
+            bottom: 0%;
+            font-family: cursive;
+            word-spacing: 30px;
+            padding: 25px;
+            background-color: blue;
+            color: pink;
+            font-size: 50px
+                }
+        </style>
+
+<style>
+    body {
+      background-color: red);
+    </style>
+
+        </head>
+        <body>
+            
+        <div class="topnav">
+            <a class="active" href="Personal Website.html">Bio</a>
+            <a href="Video Games.html">Video Games</a>
+            <a href="Novels.html">Novels</a>
+            <a href="Contact.html">Contact</a>
+        </div>
+
+        <div style="padding-left:16px; color:azure; font-family: fantasy; font-size: x-large;">
+            <h3>Video Games</h3> 
+            <p>	Playing video games is one of my favorite past times. Interacting with the setting of a fictional world. Your choices can make a difference (either good or bad). Here is a list of my favorite video games. Some offer quick-paced while others are more tactical. Some that you may have heard of while others are unspoken gems. Look them up if you have the time. </p>
+        </div>
+
+        <div style="padding-left:16px; color:darkblue; font-family: cursive;">
+            <ol>
+        <p class="double"
+            <li><img src="Power Star.jpg" height="240px; width=240px float: left"
+                <p>Super Mario Galaxy</p><p>My first Wii game and the first Mario game that I finished. The setting of space in this game is gorgeous, especially for a Wii game compared to the games of today. Every Mario adventure usually follows a similar formula. Despite that, every adventure feels like a breath of fresh air, and that air was what got me into gaming more. The gameplay is simple and the characters introduced into this game are some of my favorite. <a href="https://en.wikipedia.org/wiki/Super_Mario_Galaxy">Learn More</a></p> 
+            </li>
+        </ol>
+
+        <ol>
+        <p class="double"
+            <li><img src="Twilight Beasts.jpg" height="240px; width=240px"; 
+                <p>The Legend of Zelda: Twilight Princess</p><p>One of my two favorite Legend of Zelda titles. Another Wii game that I enjoyed so much. This game has the best companion in the Zelda universe, one that is actually involved with the story and isn’t outright annoying.  The atmosphere of the game is darker compared to other installments, but not to the point that the colors look ugly. <a href="https://en.wikipedia.org/wiki/The_Rising_of_the_Shield_Hero">Learn More</a></p> 
+            </li>
+        </ol>
+        
+        <ol>
+        <p class="double"
+            <li><img src="Cannon.jpg" height="240px; width=240px"
+                <p>Kid Icarus Uprising</p><p>A 3DS title and the return for a franchise that disappeared around the late 1980s, this game brings so much charm and fun. All of the characters are likeable in their own special ways with clever dialogue, good voice-acting, and working off each other well. The gameplay is quick-paced, always keeping you on your toes. There is also a way to make the levels easier or harder, letting both casuals and pros enjoy the game however they want. <a href="https://en.wikipedia.org/wiki/Kid_Icarus:_Uprising">Learn More</a></p> 
+            </li>
+        </ol>
+
+        <ol>
+        <p class="double"
+            <li><img src="Ashe.jpg" height="240px; width=240px"
+                <p>Fire Emblem Three Houses</p><p>A Switch title and my favorite Fire Emblem game, Three Houses is a game that I went into blind. After nearly two hundred hours of gameplay, I felt like I’ve achieved a huge accomplishment. The cast of characters are well fleshed out, from their personalities to their backstories, to the voice-acting. Every character feels alive in their own special way. The world-building and the rules established are also very intriguing. My favorite route is the Blue Lions route. <a href="https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses">Learn More</a></p> 
+            </li>
+        </ol>
+
+        <ol>
+        <p class="double"
+            <li><img src="Phantom Thieves.jpg" height="240px; width=240px"
+                <p>Persona 5 Royal</p><p>A PS4 title that took SO LONG to get through, still worth it though. Before I got into this game, the fanbase was always going crazy about this game, given that it took forever to come out, and the wait was worth. This title looks at society as a whole and brings out the darkness lurking in it, like sexual harassment, political corruption, and anxiety, (yes, this is an M-rated game). The vibrant cast of characters fight against the injustices of society with their special powers. High-school student by day and Phantom Thieves by night, this game has so much going on. All of the music is easy to love.  <a href="https://atlus.com/p5r/lang/en/">Learn More</a></p> 
+            </li>
+        </ol>
+        <ol>
+        <p class="double"
+            <li><img src="Wasteland.jpg" height="240px; width=240px"
+                <p>Nier Automata</p><p>My first PS4 game as well as my first M-rated game. This is a game that took me by surprise, judging by the surface of this complex game. The producer of this game is an oddball, not even showing his face in public. Automata is full of twists and turns that ignores many rules most producers wouldn’t use, like multiple endings, philosophies about life, and fourth-wall breaks. Even though people think it’s remembered for fan-service, there is a deep story going on with compelling characters solving the mystery of their purpose in life. <a href="https://en.wikipedia.org/wiki/Nier:_Automata">Learn More</a></p> 
+            </li>
+        </ol>
+        </div>
+
+        <footer id="colophon" class="site-footer">
+
+        </footer>
+
+        <footer>
+            <a class="active" href="Personal Website.html">Bio</a>
+            <a href="Video Games.html">Video-Games</a>
+            <a href="Novels.html">Novels</a>
+            <a href="Contact.html">Contact</a>
+        </footer>
+    </body>
+</html>

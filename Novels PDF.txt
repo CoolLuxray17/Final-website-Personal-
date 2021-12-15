@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    body {
+     margin: 0;
+     font-family: sans-serif, Helvetica, sans-serif;
+    }
+
+    .all-browsers {
+        margin: 0;
+        padding: 5px;
+        background-color: yellow;
+    }
+
+    .topnav {
+        overflow: hidden;
+        background-color:darkblue;
+    }
+    .topnav a {
+        float: left;
+        color: #f2f2f2;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+    font-size: 22px;
+    }
+
+    body{
+                background-color: powderblue
+            }
+
+    p.double {border-style: double; border-color: goldenrod; text-align: left; color: crimson; font-family: fantasy;
+        font-size: 25px; top: 40%; text-align:center;}
+   .topnav a:hover {
+            background-color: orange;
+            color: black;
+    }
+
+    .topnav a.active {
+            background-color: crimson;
+            color: black;
+        }
+
+    footer {
+        text-align: center;
+        bottom: 0%;
+        font-family: cursive;
+        word-spacing: 20px;
+        padding: 25px;
+        background-color: blue;
+        color: pink;
+        font-size: 50px
+            }
+    </style>
+    </head>
+    <body>
+
+    <div class="topnav">
+        <a class="active" href="Personal Website.html">Bio</a>
+        <a href="Video Games.html">Video Games</a>
+        <a href="Novels.html">Novels</a>
+        <a href="Contact.html">Contact</a>
+    </div>
+
+    <div style="padding-left:16px; color:darkblue; font-family: fantasy; font-size: x-large;">
+        <h2>Novels</h2>
+        <p>If there is something I enjoy in writing stories, it’s making characters. I enjoy forming dialogue based on personality and I also enjoy character development. Click on the link below to look at some of my work. Feel free to offer any criticism you may have to offer. I also enjoy reading a number of novels. Here is a list of book series that I’ve either finished or am currently reading. </p>
+    </div>
+
+    <p><a href="Dark Secrets in the Underground.pdf">Dark Secrets in the Underground</a>.</p>
+    <p><a href="No Place Low Enough.pdf">No Place Low Enough</a>.</p>
+
+    <div style="padding-left:16px; color: teal; font-family: cursive;">
+        <ol>
+            <p class="double"
+            <li><img src="Overlord.jpg" height="240px; width=240px"
+                <p>Overlord</p><p>A office worker finds himself as a mage skeleton in a game. He is the most powerful spell-caster in the game (that we know of) and all of his subordinates love him and give him way more credit than he really deserves. What I like about this idea is that a normal person is placed in the body of a being with so much authority and power. He tries his best to be this Overlord that everyone else sees. He is technically a villain, seeing that his subordinates want to rule the world for his sake, but watching a casual person trying to figure out how a good king would act to his people. The world-building is also handled very well with more minor characters are made interesting people. <a href="https://en.wikipedia.org/wiki/Overlord_(novel_series)">Learn More</a></p>  
+            </li>
+        <ol/>
+
+        <ol>
+            <p class="double"
+            <li><img src="Slime.jpg" height="240px; width=240px"
+                <p>That Time I got Reincarnated as a Slime</p><p>This story turns a 37-year-old man into a genderless slime. With an on-the-nose title and a slime as a main lead, the series sounds weak, but trust me when I say that they managed to make it work. He is born with all of these different abilities and he gets more of them as he absorbs monsters. With that power, he decides to help a goblin village being attacked by wolves. As the story goes by, he manages to turn a tiny village of scrawny goblins into town with architecture, a council, and agricultural system. As the town develops, more characters of different races moves in to help contribute to such a huge project. The slime is everything you could ask for in a main lead. He is funny, powerful, and sympathetic, but isn’t naive enough to be pushed around. He also continues to learn how to fight, as well as how to run an entire civilization. <a href="https://en.wikipedia.org/wiki/That_Time_I_Got_Reincarnated_as_a_Slime">Learn More</a></p>
+                </li>
+        </ol>
+
+        <ol>
+        <p class="double"
+            <li>
+                <img src="Shield Hero.jpg" height="240px; width=240px"
+                <p>The Rising of the Shield Hero</p><p>A rather unique twist to this story. A optimistic man is transported into a magical world with a shield as a weapon (yes, a shield. After a full day, he is charged for a crime he didn’t commit and the world turns against him. No allies, no money, and not being able to use a weapon because the shield won’t let him, the man becomes bitter and grows to hate everything about the world. Despite that, he still needs to survive. he relies on making and selling medicine in order to make an income. Stuck in a society where everyone scorns at him and not having the fire power to kill the weakest of enemies, he’ll do anything to get anywhere in life. Making threats and owning slaves are a few questionable choices he makes. I understand that some of his actions are raise-worthy, but you can understand that with no other option in a society that hates him, he really doesn’t have any other option.  <a href="https://en.wikipedia.org/wiki/The_Rising_of_the_Shield_Hero">Learn More</a></p> 
+            </li>
+        </ol>
+
+        <ol>
+            <p class="double"
+            <li>
+                <img src="Bungō_Stray_Dogs_volume_1.jpg" height="240px; width=240px"
+                <p>Bungou Stray Dogs</p><p>A series that not too many people are talking about. In this world, there are special individuals with special powers. Most of the characters are named after famous writers, like Omasu Danzi and Nathanial Hawthorne. Their powers are based off of a piece of literature from the writers that they were named after. This is more of a mystery story as we are following a detective agency and a mafia, both sides having likable characters. <a href="https://en.wikipedia.org/wiki/Bungo_Stray_Dogs">Learn More</a></p>
+            </li>
+        </ol>
+
+                <ol>
+            <p class="double"
+            <li><img src="Bookworm.jpg" height="240px; width=240px"
+                <p>The Ascendance of a Bookworm</p> <p>I’ve only just started reading this series. A high school girl is killed and is reincarnated as a little girl who is sick and very frail. Reading was her favorite hobby in her past-life, but she now lives in a time where paper isn’t so common, a time where getting an education is a lot harder than it is today. Her goal is to figure out the writing system of this worked and figure out how to get her hands on some paper. What I like about this story is that it feels more natural compared to other stories. She takes oil from a fruit and uses it to make a shampoo. She uses knowledge from her last life in order to make the life of poverty a little more tolerable. <a href="https://en.wikipedia.org/wiki/Ascendance_of_a_Bookworm">Learn More</a></p>
+            </li>
+        </ol>
+    </div>
+
+    <footer id="colophon" class="site-footer">
+
+    </footer>
+
+    <footer>
+        <a class="active" href="Personal Website.html">Bio</a>
+        <a href="Video Games.html">Video-Games</a>
+        <a href="Novels.html">Novels</a>
+        <a href="Contact.html">Contact</a>
+    </footer>
+</body>
+</html>
